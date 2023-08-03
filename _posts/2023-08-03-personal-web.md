@@ -1,4 +1,11 @@
-CREATE A PERSONAL WEBSITE BOLG USING GITHUB
+---
+title: Create a personal website blog using github
+categories:
+- Attamption
+feature_image: "https://picsum.photos/2560/600?image=872"
+---
+
+CREATE A PERSONAL WEBSITE BLOG USING GITHUB
 
 # I. search a good theme in jekyllthemes
 
