@@ -1,23 +1,16 @@
----
-title: Create a personal website blog using github
-categories:
-- Attamption
-feature_image: "https://picsum.photos/2560/600?image=872"
----
-
-CREATE A PERSONAL WEBSITE BLOG USING GITHUB
+CREATE A PERSONAL WEBSITE BOLG USING GITHUB
 
 # I. search a good theme in jekyllthemes
 
 URL: https://jekyllthemes.io/theme/alembic
 
-![image-20230803135944487](C:\Users\cytosineXT_LLab\AppData\Roaming\Typora\typora-user-images\image-20230803135944487.png)
+![](https://raw.githubusercontent.com/cytosineXT/PicGoimgbed/main/images/image-20230803135944487.png)
 
 # II. Get Alembic on Github
 
 Fork it and follow the installation guide
 
-![image-20230803140102257](C:\Users\cytosineXT_LLab\AppData\Roaming\Typora\typora-user-images\image-20230803140102257.png)
+![](https://raw.githubusercontent.com/cytosineXT/PicGoimgbed/main/images/image-20230803140102257.png)
 
 ## Installation
 
@@ -27,9 +20,9 @@ To give you a running start I've put together some starter kits that you can dow
 
 - Vanilla Jekyll starter kit: [![Deploy to Netlify](https://camo.githubusercontent.com/417d890ba67c98ad5856b715343a61cdbf07d72b9bd5b79dd45d43de634c29ea/68747470733a2f2f7777772e6e65746c6966792e636f6d2f696d672f6465706c6f792f627574746f6e2e737667)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
 
-  ![image-20230803143626029](C:\Users\cytosineXT_LLab\AppData\Roaming\Typora\typora-user-images\image-20230803143626029.png)
+  ![](https://raw.githubusercontent.com/cytosineXT/PicGoimgbed/main/images/image-20230803143545072.png)
 
-  ![image-20230803144448515](C:\Users\cytosineXT_LLab\AppData\Roaming\Typora\typora-user-images\image-20230803144448515.png)
+  ![](https://raw.githubusercontent.com/cytosineXT/PicGoimgbed/main/images/image-20230803144448515.png)
 
 - Netlify CMS starter kit: [![Deploy to Netlify](https://camo.githubusercontent.com/417d890ba67c98ad5856b715343a61cdbf07d72b9bd5b79dd45d43de634c29ea/68747470733a2f2f7777772e6e65746c6966792e636f6d2f696d672f6465706c6f792f627574746f6e2e737667)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms)
 
@@ -75,10 +68,21 @@ ohhhh that's good
 
 URL: https://cytosinext.netlify.app/
 
-![image-20230803172005059](C:\Users\cytosineXT_LLab\AppData\Roaming\Typora\typora-user-images\image-20230803172005059.png)
+<img src="https://raw.githubusercontent.com/cytosineXT/PicGoimgbed/main/images/image-20230803202345842.png" alt="image-20230803202345842" style="zoom:50%;" />
 
 But there are still some bugs, like the avatar. Have a rest, I will come back later.
 
 - avatar, it might be the address error, i just need to change the "myAvatar.jpg" to "/myAvatar.jpg"
 - images in the markdown, i need to change the Typora img insert mode, create a online Image Hosting(图床) 
 
+
+
+Now successfully create the Image Hosting in github, the PIcGo in win, and the Typora settings. Trytry insert img:
+
+![image-20230803202108806](https://raw.githubusercontent.com/cytosineXT/PicGoimgbed/main/images/image-20230803202108806.png)
+
+![image-20230803202236041](https://raw.githubusercontent.com/cytosineXT/PicGoimgbed/main/images/image-20230803202236041.png)
+
+
+
+very good very good!
