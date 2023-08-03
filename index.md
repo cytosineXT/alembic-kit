@@ -1,8 +1,9 @@
 ---
-title: Welcome to my website
+title: SHARP TOOLS MAKE GOOD WORK
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world trytry
+  ## Welcome to cytosineXT's little world ♪♫♬
 ---
 
-There isn't much going on here yet, but watch this space
+Curiosity is the most optimistic thing in the world, I hope I can keep the enthusiasm forever and chase the curiosity consistently. For that simple reason, this website is a recording for the chasing and growing way. 
+We ain't never getting older~
