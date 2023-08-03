@@ -10,7 +10,7 @@ The life essay record is in my WeChat Subscription Account, named "cytosineXT". 
 
 ![QR](https://github.com/cytosineXT/alembic-kit/assets/63288867/40ac3e48-2bd4-406e-8273-2c23b2fb1adc)
 
-If U want to connect with me, please Emile me at cytosinext@qq.com
+If U want to connect with me, please Emile me at cytosinext@qq.com.
 
 We ain't never getting older~
 
