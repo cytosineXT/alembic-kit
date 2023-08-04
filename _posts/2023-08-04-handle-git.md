@@ -52,7 +52,7 @@ git init #把这个目录初始化为git repository, .git是跟踪管理版本�
 
 now, the initialization of the git repository is done.
 
-![image-20230804163824298](C:\Users\cytosineXT_LLab\AppData\Roaming\Typora\typora-user-images\image-20230804163824298.png)
+![](https://raw.githubusercontent.com/cytosineXT/PicGoimgbed/main/images/image-20230804163824298.png)
 
 On the other hand, there are 3 files in the folder now that I just created.
 
