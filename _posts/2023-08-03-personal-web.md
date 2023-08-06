@@ -1,3 +1,10 @@
+---
+title: Establish Personal Web
+categories:
+- programming
+feature_image: "https://picsum.photos/2560/600?image=872"
+---
+
 CREATE A PERSONAL WEBSITE BOLG USING GITHUB
 
 # I. search a good theme in jekyllthemes

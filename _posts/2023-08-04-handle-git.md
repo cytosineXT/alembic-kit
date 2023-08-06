@@ -1,3 +1,10 @@
+---
+title: HANDLE GIT
+categories:
+- programming
+feature_image: "https://picsum.photos/2560/600?image=872"
+---
+
 HANDLE GIT
 
 system: ubuntu20.04
